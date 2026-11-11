@@ -1,0 +1,6 @@
+metric,value
+read_pairs_raw,2387574
+reads_after_trim,2367112
+variants_raw,4711
+variants_PASS,4381
+candidates,51
