@@ -1,0 +1,52 @@
+CHROM,POS,REF,ALT,QUAL,GT,AD,DP,GQ,gnomAD_AF,consequence,gene,rarity,cluster,high_depth
+chr17,80090216,G,C,13977.1,1/1,"1,342",343,99,,missense,CCDC40,not in gnomAD,True,True
+chr17,41149523,T,TGGCAGCAGCTGGGGC,13302.0,1/1,"5,491",496,99,,inframe_insertion,KRTAP4-5,not in gnomAD,False,True
+chr17,80090265,G,A,12268.1,1/1,"1,327",328,99,,missense,CCDC40,not in gnomAD,True,True
+chr17,7513774,CCA,C,6800.03,1/1,"0,152",152,99,,frameshift,POLR2A,not in gnomAD,False,False
+chr17,7024700,C,CCAG,6115.6,0/1,"19,198",217,99,,inframe_insertion,BCL6B,not in gnomAD,False,False
+chr17,74866471,T,C,5138.06,1/1,"0,159",159,99,,missense,FDXR,not in gnomAD,False,False
+chr17,413794,TGACCCCGAGGCCCTCAAGGGCTTCCACCCCGACCCCAAGGCCCTCAAGGGCTTCCACCCC,T,4767.6,0/1,"20,166",186,99,,inframe_deletion,LIAT1,not in gnomAD,False,False
+chr17,413576,A,T,4673.64,0/1,"197,301",498,99,,missense,LIAT1,not in gnomAD,True,True
+chr17,413503,C,G,4581.06,1/1,"20,150",170,99,,missense,LIAT1,not in gnomAD,True,False
+chr17,74866908,C,T,4173.06,1/1,"0,140",140,99,,missense,FDXR,not in gnomAD,False,False
+chr17,79731150,C,T,3980.06,1/1,"0,123",123,99,,missense,ENPP7,not in gnomAD,True,False
+chr17,73236665,C,A,3924.06,1/1,"0,124",124,99,,missense,MTNAP1,not in gnomAD,False,False
+chr17,7846859,T,TACCACCACC,3467.02,0/1,"0,33",76,99,,inframe_insertion,KDM6B,not in gnomAD,True,False
+chr17,7846859,T,TACCACC,3467.02,1/0,"0,43",76,99,,inframe_insertion,KDM6B,not in gnomAD,True,False
+chr17,81119470,C,CGGGCGT,3122.6,0/1,"63,81",144,99,,inframe_insertion,AATK,not in gnomAD,True,False
+chr17,82127772,C,G,2985.64,0/1,"85,100",185,99,0.006967,missense,CCDC57,rare (<1%),True,False
+chr17,82088256,C,T,2948.64,0/1,"92,112",204,99,9.849e-05,missense,FASN,rare (<1%),False,False
+chr17,42852329,G,A,2918.64,0/1,"100,107",207,99,0.006672,missense,AOC3,rare (<1%),False,False
+chr17,9728628,C,T,2765.64,0/1,"134,106",240,99,7.386e-05,missense,USP43,rare (<1%),False,False
+chr17,80210880,C,T,2585.64,0/1,"97,103",200,99,,missense,SGSH,not in gnomAD,False,False
+chr17,2697959,C,T,2373.64,0/1,"94,100",194,99,,missense,CLUH,not in gnomAD,False,False
+chr17,82435804,G,A,2223.64,0/1,"92,88",180,99,0.003841,missense,HEXD,rare (<1%),False,False
+chr17,38335200,T,C,2099.64,0/1,"57,80",137,99,,missense,GPR179,not in gnomAD,False,False
+chr17,17136247,CCAG,C,2027.6,0/1,"60,56",116,99,,inframe_deletion,MPRIP,not in gnomAD,False,False
+chr17,5461073,A,G,2001.64,0/1,"65,68",133,99,0.005096,missense,DHX33,rare (<1%),False,False
+chr17,78404024,T,G,1854.64,0/1,"72,74",146,99,0.008469,missense,PGS1,rare (<1%),False,False
+chr17,74344842,G,A,1849.64,0/1,"87,79",166,99,0.002486,missense,KIF19,rare (<1%),False,False
+chr17,35479231,G,A,1826.64,0/1,"63,69",132,99,0.0004432,missense,SLFN12L,rare (<1%),False,False
+chr17,17158962,G,A,1821.64,0/1,"88,68",156,99,7.386e-05,missense,MPRIP,rare (<1%),False,False
+chr17,19958145,C,T,1767.64,0/1,"73,71",144,99,,missense,AKAP10,not in gnomAD,False,False
+chr17,4076654,C,T,1717.64,0/1,"73,66",139,99,0.003791,missense,ZZEF1,rare (<1%),False,False
+chr17,74893497,C,CGGTTCCATGGGCTCCGTA,1583.6,0/1,"44,64",108,99,0.0001076,inframe_insertion,FADS6,rare (<1%),False,False
+chr17,39668527,C,A,1559.64,0/1,"53,62",115,99,4.928e-05,missense,PNMT,rare (<1%),False,False
+chr17,78972605,G,A,1554.64,0/1,"86,64",150,99,0.003471,missense,LGALS3BP,rare (<1%),False,False
+chr17,62536300,C,T,1541.64,0/1,"73,64",137,99,0.0001969,missense,TLK2,rare (<1%),False,False
+chr17,38343099,G,A,1491.64,0/1,"85,62",147,99,0.0003447,missense,GPR179,rare (<1%),False,False
+chr17,7734477,G,A,1443.64,0/1,"33,56",89,99,0.0001231,missense,DNAH2,rare (<1%),False,False
+chr17,50525051,C,A,1402.64,0/1,"61,58",119,99,,missense,MYCBPAP,not in gnomAD,False,False
+chr17,38297242,C,T,1263.64,0/1,"38,50",88,99,,missense,MRPL45,not in gnomAD,False,False
+chr17,51192773,C,A,1212.64,0/1,"57,48",105,99,0.001969,missense,MBTD1,rare (<1%),False,False
+chr17,30271276,C,T,1003.64,0/1,"39,44",83,99,0.001994,missense,BLMH,rare (<1%),False,False
+chr17,746916,A,G,965.64,0/1,"39,31",70,99,0.005662,missense,GEMIN4,rare (<1%),False,False
+chr17,48724362,T,G,963.04,0/1,"49,37",86,99,,missense,PRAC2,not in gnomAD,False,False
+chr17,42669615,C,A,934.64,0/1,"68,39",107,99,0.001723,missense,PLEKHH3,rare (<1%),False,False
+chr17,7285729,G,A,827.64,0/1,"37,36",73,99,0.003693,missense,SLC2A4,rare (<1%),False,False
+chr17,37624364,C,T,785.64,0/1,"44,35",79,99,,missense,DDX52,not in gnomAD,False,False
+chr17,36013244,T,C,773.64,0/1,"27,32",59,99,,missense,CCL23,not in gnomAD,False,False
+chr17,445938,C,T,753.64,0/1,"21,30",51,99,0.003348,missense,RFLNB,rare (<1%),False,False
+chr17,32997486,A,G,602.64,0/1,"36,23",59,99,0.003397,missense,SPACA3,rare (<1%),False,False
+chr17,10496293,C,T,597.64,0/1,"227,49",276,99,7.386e-05,missense,MYH1,rare (<1%),False,False
+chr17,40822513,ATCC,A,281.6,0/1,"122,16",138,99,,inframe_deletion,KRT10,not in gnomAD,False,False
